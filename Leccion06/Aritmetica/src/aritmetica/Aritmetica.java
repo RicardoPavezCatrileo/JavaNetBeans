@@ -10,5 +10,7 @@ package aritmetica;
  * @author qa-ntb
  */
 public class Aritmetica {
-    
+    int sumar (int a,int b){
+    return a + b;
+    }
 }
