@@ -22,6 +22,7 @@ public class Persona {
     public Persona(String nombre){
     this.nombre = nombre;
     }
+    //constructor completo
     public Persona (String nombre,char genero,int edada,String direccion){
     this.nombre=nombre;
     this.genero=genero;//M-masculino,F-Femenino
