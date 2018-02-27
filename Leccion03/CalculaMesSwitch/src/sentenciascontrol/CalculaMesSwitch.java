@@ -15,7 +15,7 @@ public class CalculaMesSwitch {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int mes = 12; // Mes del año
+        int mes = 14; // Mes del año
         String estacion;
 
         String saludo = "Hola Mundo";
