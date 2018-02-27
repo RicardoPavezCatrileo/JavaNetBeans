@@ -26,8 +26,8 @@ public class PruebaAritmetica {
         System.out.println("\nResultado suma atributos obj2:" + obj2.sumar() );
         
         //Conclusion del Ejercicio
-//* Con este Ejercicio hemos puesto en practica el manejo de constructores en Java.
-//* Los Constructores nos permiten crear nuestros objetos con valores personalizados desde el momento de la creacion, de esta manera.
-//* Un Constructores un tipo de metodo que solo se puede utilizar al momento de crear un objeto y debe llamarse igual que la clase.
+        //* Con este Ejercicio hemos puesto en practica el manejo de constructores en Java.
+        //* Los Constructores nos permiten crear nuestros objetos con valores personalizados desde el momento de la creacion, de esta manera.
+        //* Un Constructores un tipo de metodo que solo se puede utilizar al momento de crear un objeto y debe llamarse igual que la clase.
     }
 }
