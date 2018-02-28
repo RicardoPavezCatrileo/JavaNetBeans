@@ -7,8 +7,10 @@ package aritmetica;
 
 /**
  *
- * @author rpavez
+ * @author RicardoPavezCatrielo
  */
 public class PruebaCommit_v3 {
+    int a;
+    int b;
     
 }
