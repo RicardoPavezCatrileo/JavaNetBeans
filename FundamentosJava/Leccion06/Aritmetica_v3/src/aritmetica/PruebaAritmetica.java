@@ -4,30 +4,35 @@ package aritmetica;
  * @author RicardoPavezCatrileo
  */
 public class PruebaAritmetica {
-    public static void main (String args[]){
-    //Creamos un objeto de la clase Aritmetica con el constructor vacio
-        Aritmetica obj1 = new Aritmetica();
+    
+    public static void main(String args[]){
         
-        //Llamamos el metodo sumar y recibimos el valor devuelto
-        int resultado = obj1.sumar(5, 4);
+        //Variables locales
+        int operandoA = 6;
+        int operandoB = 2;
         
-        System.out.println("Resultado suma directa obj1:" + resultado);
+        //Creamos un objeto de la clase Aritmetica enviando argumentos
+        Aritmetica obj1 = new Aritmetica(operandoA,operandoB);
         
-        //Si llamamos directamente el metodo sumar sin argumentos
-        //el valor es cero, ya que los atributos del objeto nunca se inicializaron
-        //ya que no se uso el constructor con argumentos, sino el constructor vacio
-        System.out.println("Resultado suma atributos obj1:" + obj1.sumar() );
+        //Imprimir operandos
+        System.out.println("Operando A:" + operandoA + " y operadoB:" + operandoB);
+               
+        //Resultado de la suma
+        System.out.println("\nResultado suma:" + obj1.sumar() );
         
-        //Ahora creamos un objeto con el constructor con 2 argumentos
-        Aritmetica obj2 = new Aritmetica(2,1);
+        //Resultado de la resta
+        System.out.println("\nResultado resta:" + obj1.restar());
+         
+        //Resultado de la multiplicacion
+        System.out.println("\nResultado multiplicacion:" + obj1.multiplicar());
         
-        //Imprimimos directamente el resultado. 
-        //Al llamar directamente al metodo suma, nos regresa el valor de la suma
-        System.out.println("\nResultado suma atributos obj2:" + obj2.sumar() );
-        
-        //Conclusion del Ejercicio
-        //* Con este Ejercicio hemos puesto en practica el manejo de constructores en Java.
-        //* Los Constructores nos permiten crear nuestros objetos con valores personalizados desde el momento de la creacion, de esta manera.
-        //* Un Constructores un tipo de metodo que solo se puede utilizar al momento de crear un objeto y debe llamarse igual que la clase.
+        //Resultado de la division
+        System.out.println("\nResultado division:" + obj1.dividir());   
     }
+    
+//    void otroMetodo(){
+          //No se puede acceder a la variable local declarada en otro metodo
+//        System.out.println("valor operando A" + operandoA);
+//    }
+    
 }
