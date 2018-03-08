@@ -1,6 +1,4 @@
-
 package com.gm.javadoc;
-
 /**
  * Esta clase permite realizar operaciones de aritmetica como sumar, restar, etc
  *
@@ -8,17 +6,14 @@ package com.gm.javadoc;
  * @version: V.0.0.0.1
  */
 public class Aritmetica {
-
     /**
      * Primer Operando
      */
     int operandoA;
-
     /**
      * Segundo operando
      */
     int operandoB;
-
     /**
      * Constructor de la clase
      * @param a Recibe el valor para el operando A
@@ -36,5 +31,11 @@ public class Aritmetica {
     public int sumar(){
         return operandoA + operandoB;
     }
-
+    /**
+     * Este metodo realiza la resta de dos operandos enteros
+     * @return int resultado de la resta 
+     */
+    public int resta(){
+        return operandoA + operandoB;
+    }
 }

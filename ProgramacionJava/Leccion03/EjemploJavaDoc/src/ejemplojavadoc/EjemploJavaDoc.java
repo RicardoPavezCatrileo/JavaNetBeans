@@ -1,6 +1,6 @@
 
 /*
- * Derechos reservados GlobalMentoring.com.mx
+ * Derechos reservados RicardoPavezCatrileo
  */
 package ejemplojavadoc;
 
@@ -18,8 +18,14 @@ public class EjemploJavaDoc {
      * @param args argumentos de la linea de comandos
      */
     public static void main(String[] args) {
-        int resultado = new Aritmetica(3, 2).sumar();
+        
+        int resultado1 = new Aritmetica(3, 2).sumar();
+        //int resultado2 = new Aritmetica(8, 6).resta();
 
-        System.out.println("resultado:" + resultado);
+        System.out.println("resultado:" + resultado1);
+        //System.out.println("resultado:" + resultado2);
+        
+        
+        
     }
 }
