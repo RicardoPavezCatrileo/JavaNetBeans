@@ -1,4 +1,4 @@
-Seccion30 - Temario General y Recursos del Curso.
+Seccion 30 - Temario General y Recursos del Curso.
 Polimorfismo
 Manejo avanzado de objetos.
 Manejo de Bloques de codigo.
@@ -6,4 +6,22 @@ Clases Abstractas e Interfaces.
 Manejo de Excepciones.
 Manejo de Colecciones.
 Genericos en Java.
+Seccion 31 - Sintaxis Basica de Java.
+Sintaxis basica de la estructura de una clase.
+Paquete<nombre_paquete>;
+import <nombre_paquete>;
+public class NombreClase{
+<atributos>;
+<constructores>;
+<metodos>;
+}
+bloques de codigo{}inicio y fin
+Convenciones en Java.
+las clases son sustantivas, comienzan con mayuscula.
+una constante se escribe en mayuscula
+los metodos son verbos.
+los bloques de codigo se identan.
+Seccion 32 Manejo de Javadoc
+Seccion 33 Argumentos Variables en Java(varargs)
+Parametros Variables
 
