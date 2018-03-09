@@ -6,6 +6,7 @@ Clases Abstractas e Interfaces.
 Manejo de Excepciones.
 Manejo de Colecciones.
 Genericos en Java.
+*********************************************************************************
 Seccion 31 - Sintaxis Basica de Java.
 Sintaxis basica de la estructura de una clase.
 Paquete<nombre_paquete>;
@@ -21,7 +22,17 @@ las clases son sustantivas, comienzan con mayuscula.
 una constante se escribe en mayuscula
 los metodos son verbos.
 los bloques de codigo se identan.
+*********************************************************************************
 Seccion 32 Manejo de Javadoc
+*********************************************************************************
 Seccion 33 Argumentos Variables en Java(varargs)
 Parametros Variables
+public static void imprimirNumero(int... numeros){}
+con for y foreach
+*********************************************************************************
+Seccion 34 - Manejo de Enumeraciones en Java
+
+*********************************************************************************
+Seccion 35 - Bloques de Codigo
+
 
