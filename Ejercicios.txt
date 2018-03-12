@@ -3,3 +3,7 @@ como declaro un arreglo de tipo float en java y recorrerlo.
 ForEach, ¿se puede generar un foreach de un float?
 Seccion: 37 - Programacion con Java: Autoboxing y Unboxing en Java
 Autoboxing y Unboxing en Java (diferencia entre float y double)
+Sección: 38 - Programación con Java: Modificadores de Acceso en Java
+Public (+) / Protected(#) / Private(-)/ dafault(signo de la Ñ)
+Paquete, Clases y SubClases.
+Sección: 39 - Programación con Java: SOBREESCRITURA DE METODOS EN JAVA (overriding)
