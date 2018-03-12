@@ -1,0 +1,5 @@
+Sección: 36 - Programación con Java: Manejo de forEach en Java
+como declaro un arreglo de tipo float en java y recorrerlo.
+ForEach, ¿se puede generar un foreach de un float?
+Seccion: 37 - Programacion con Java: Autoboxing y Unboxing en Java
+Autoboxing y Unboxing en Java (diferencia entre float y double)
