@@ -36,10 +36,41 @@ Sección: 35 - Programación con Java: Bloques de Código
 Sección: 36 - Programación con Java: Manejo de forEach en Java
 Sección: 37 - Programación con Java: Autoboxing y Unboxing en Java
 Sección: 38 - Programación con Java: Modificadores de Acceso en Java
-Sección: 39 - Programación con Java: Sobreescritura de Métodos en Java (overriding)
-Sección: 40 - Programación con Java: Polimorfismo en Java
-Sección: 41 - Programación con Java: Palabra instance of en Java
-Sección: 42 - Programación con Java: Conversión de Objetos (casting)
+************************************************************************************
+Sección: 39 - 2 / 2
+Programación con Java: Sobreescritura de Métodos en Java (overriding)
+115. Lección: Sobreescritura de Métodos en Java (overriding) 5:48
+CPJ-A-Leccion-SobreescrituraMetodos.pdf
+116. Ejercicio: Sobreescritura de Métodos en Java (overriding) 9:55
+CPJ-B-Ejercicio-SobreescrituraMetodos.pdf 
+************************************************************************************
+Sección: 40 - 0 / 2
+Programación con Java: Polimorfismo en Java
+117. Lección: Polimorfismo en Java 11:36
+CPJ-A-Leccion-Polimorfismo.pdf
+118. Ejercicio: Polimorfismo en Java 9:16
+CPJ-B-Ejercicio-Polimorfismo.pdf
+************************************************************************************
+Sección: 41 - 2 / 2 - Programación con Java: Palabra instance of en Java
+119. Lección: Palabra instance of en Java 7:43
+CPJ-A-Leccion-PalabraInstanceOf.pdf
+120. Ejercicio: Palabra instance of en Java 10:35
+CPJ-B-Ejercicio-PalabraInstanceOf.pdf
+Cuando utilicemos el operador instanceof, debemos recordar que sólo puede usarse con variables que 
+contengan la referencia a un objeto. Es decir, variables que contendrán un conjunto de bytes que 
+representarán a la dirección en memoria en la que está almacenado el objeto. Una variable de referencia normal ?
+El objetivo del operador instanceof es conocer si un objeto es de un tipo determinado. Por tipo nos referimos 
+a clase o interfaz (interface), es decir si el objeto pasaría el test ES-UN para esa clase o ese interfaz, 
+especificado a la derecha del operador.
+************************************************************************************
+Sección: 42 - Programación con Java: Conversión de Objetos (casting) 0 / 3
+121. Lección: Conversión de Objetos (casting) en Java 7:21
+CPJ-A-Leccion-CastingObjetos.pdf
+Upcasting - downcasting
+122. Ejercicio: Conversión de Objetos (casting) en Java 11:07
+CPJ-B-Ejercicio-CastingObjetos.pdf
+123. Ejercicio: Conversión de Objetos (casting) - parte 2 9:25
+************************************************************************************
 Sección: 43 - Programación con Java: Clase Object en Java (equals, hashCode y toString)
 Sección: 44 - Programación con Java: Clases Abstractas
 Sección: 45 - Programación con Java: Manejo de Interfaces en Java
