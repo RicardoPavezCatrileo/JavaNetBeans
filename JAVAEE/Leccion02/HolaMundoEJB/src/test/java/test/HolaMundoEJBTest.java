@@ -23,10 +23,10 @@ public class HolaMundoEJBTest {
 
     @Test
     public void testAddNumbers() throws Exception {
-        int dato1 = 3;
-        int dato2 = 5;
-        int resultado = ejb.sumar(dato1, dato2);
-        assertEquals((dato1 + dato2), resultado);
-        System.out.println("\nOperacion terminada, resultado: " + resultado + "\n");
+        int dato1 = 9;
+        int dato2 = 2;
+        int resultadosuma = ejb.sumar(dato1, dato2);
+        assertEquals((dato1 + dato2), resultadosuma);
+        System.out.println("\nOperacion terminada,\n resultado: " + "\n" + resultadosuma + "\n");
     }
 }
