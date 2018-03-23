@@ -6,7 +6,7 @@ public class EjemploSobreescritura {
         Empleado empleado = new Empleado("Juan",1000);
         System.out.println( empleado.obtenerDetalles() );
         
-        Gerente gerente = new Gerente("Karla",2000,"Finanzas");
+        Gerente gerente = new Gerente("Ricardo",2000,"Finanzas");
         System.out.println( gerente.obtenerDetalles() );
     }
 }
