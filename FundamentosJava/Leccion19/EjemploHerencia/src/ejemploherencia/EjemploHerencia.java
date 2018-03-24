@@ -22,7 +22,7 @@ public class EjemploHerencia {
         c1.setNombre("Karla");
         c1.setEdad(22);
         c1.setGenero('F');
-        c1.setDireccion("MÃ©xico, DF");
+        c1.setDireccion("Mexico, DF");
         System.out.println("\nVolvemos a imprimir el objeto cliente1");
         System.out.println(c1);
     }
