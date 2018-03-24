@@ -17,7 +17,15 @@ Sección: 16 - Fundamentos Java: Uso de la palabra this en Java
 Sección: 17 - Fundamentos Java: Uso de la palabra null en Java
 Sección: 18 - Fundamentos Java: Encapsulamiento en Java
 Sección: 19 - Fundamentos Java: Contexto Estático en Java (palabra static)
-Sección: 20 - Fundamentos Java: Herencia en Java
+************************************************************************************
+Sección: 20 4 / 4 - Fundamentos Java: Herencia en Java
+64. Lección: Herencia en Java (Inheritance) - 9:10
+CFJ-A-Leccion-Herencia.pdf
+65. Lección: Herencia en Java (continuación) - 8:45
+66. Ejercicio: Herencia en Java - 12:02
+CFJ-B-Ejercicio-Herencia.pdf
+67. Ejercicio: Herencia en Java (continuación)
+************************************************************************************
 Sección: 21 - Fundamentos Java: Sobrecarga de Constructores
 Sección: 22 - Fundamentos Java: Sobrecarga de Métodos en Java
 Sección: 23 - Fundamentos Java: Paquetes en Java
@@ -63,7 +71,8 @@ El objetivo del operador instanceof es conocer si un objeto es de un tipo determ
 a clase o interfaz (interface), es decir si el objeto pasaría el test ES-UN para esa clase o ese interfaz, 
 especificado a la derecha del operador.
 ************************************************************************************
-Sección: 42 - Programación con Java: Conversión de Objetos (casting) 0 / 3
+Sección: 42 - 0 / 3
+Programación con Java: Conversión de Objetos (casting) 
 121. Lección: Conversión de Objetos (casting) en Java 7:21
 CPJ-A-Leccion-CastingObjetos.pdf
 Upcasting - downcasting
@@ -73,15 +82,31 @@ CPJ-B-Ejercicio-CastingObjetos.pdf
 ************************************************************************************
 Sección: 43 - Programación con Java: Clase Object en Java (equals, hashCode y toString)
 Sección: 44 - Programación con Java: Clases Abstractas
-Sección: 45 - Programación con Java: Manejo de Interfaces en Java
+************************************************************************************
+Sección: 45 - 2 / 3
+Programación con Java: Manejo de Interfaces en Java
+128. Lección: Manejo de Interfaces en Java - 4:56
+CPJ-A-Leccion-Interfaces.pdf
+129. Ejercicio: Manejo de Interfaces en Java - 12:10
+CPJ-B-Ejercicio-Interfaces.pdf
+130. Ejercicio: Manejo de Interfaces en Java (continuación) - 9:31
+************************************************************************************
 Sección: 46 - Programación con Java: Manejo de JavaBeans
+************************************************************************************
 Sección: 47 - Programación con Java: Manejo de Excepciones en Java
+************************************************************************************
 Sección: 48 - Programación con Java: API de Collections en Java
+************************************************************************************
 Sección: 49 - Programación con Java: Manejo de Generics en Java
+************************************************************************************
 Sección: 50 - Programación con Java: Propiedades del Sistema en Java
+************************************************************************************
 Sección: 51 - Programación con Java: Entrada y Salida de datos en Java
+************************************************************************************
 Sección: 52 - Programación con Java: Manejo de Archivos
+************************************************************************************
 Sección: 53 - Programación con Java: Laboratorio Final y Conclusión del Curso
+************************************************************************************
 Sección: 54 - Java con JDBC: Temario General y Recursos del Curso
 Sección: 55 - Java con JDBC: Introducción a SQL
 Sección: 56 - Java con JDBC: Introducción a JDBC
@@ -93,6 +118,7 @@ Sección: 61 - Java con JDBC: Metadatos con JDBC
 Sección: 62 - Java con JDBC: Manejo de Pool de Conexiones
 Sección: 63 - Java con JDBC: Concepto de ORM (Object Relational Mapping)
 Sección: 64 - Java con JDBC: Laboratorio final y Conclusión del Curso
+
 Sección: 65 - HTML/CSS/JavaScript: Temario General y Recursos a descargar del Curso
 Sección: 66 - HTML/CSS/JavaScript: Introducción a HTML
 D:\JAVA\JavaNetBeans\FundamentosJava\HTML_CSS_JavaScript\Leccion01\HolaMundoHTML
