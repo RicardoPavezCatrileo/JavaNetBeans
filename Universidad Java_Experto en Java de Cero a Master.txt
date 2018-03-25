@@ -15,7 +15,9 @@ Sección: 14 - Fundamentos Java: Paso por Valor y por Referencia en Java
 Sección: 15 - Fundamentos Java: Uso de la palabra return en Java
 Sección: 16 - Fundamentos Java: Uso de la palabra this en Java
 Sección: 17 - Fundamentos Java: Uso de la palabra null en Jav
+************************************************************************************
 Sección: 18 - Fundamentos Java: Encapsulamiento en Java
+************************************************************************************
 Sección: 19 - Fundamentos Java: Contexto Estático en Java (palabra static)
 ************************************************************************************
 Sección: 20 4 / 4 - Fundamentos Java: Herencia en Java
