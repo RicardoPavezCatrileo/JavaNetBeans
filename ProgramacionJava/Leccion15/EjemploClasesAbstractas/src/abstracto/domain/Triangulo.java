@@ -2,8 +2,8 @@ package abstracto.domain;
 
 public class Triangulo extends FiguraGeometrica {
 
-    public Triangulo(String tipoFigura) {
-        super(tipoFigura);
+    public Triangulo(String TF) {
+        super(TF);
     }
 
     public void dibujar() {

@@ -3,8 +3,8 @@ package abstracto.domain;
 
 public class Rectangulo extends FiguraGeometrica {
 
-    public Rectangulo(String tipoFigura) {
-        super(tipoFigura);
+    public Rectangulo(String TF) {
+        super(TF);
     }
 
     public void dibujar() {
