@@ -14,7 +14,7 @@ Sección: 13 - Fundamentos Java: Memoria Stack y Heap en Java
 Sección: 14 - Fundamentos Java: Paso por Valor y por Referencia en Java
 Sección: 15 - Fundamentos Java: Uso de la palabra return en Java
 Sección: 16 - Fundamentos Java: Uso de la palabra this en Java
-Sección: 17 - Fundamentos Java: Uso de la palabra null en Java
+Sección: 17 - Fundamentos Java: Uso de la palabra null en Jav
 Sección: 18 - Fundamentos Java: Encapsulamiento en Java
 Sección: 19 - Fundamentos Java: Contexto Estático en Java (palabra static)
 ************************************************************************************
@@ -87,7 +87,13 @@ CPJ-B-Ejercicio-CastingObjetos.pdf
 123. Ejercicio: Conversión de Objetos (casting) - parte 2 9:25
 ************************************************************************************
 Sección: 43 - Programación con Java: Clase Object en Java (equals, hashCode y toString)
-Sección: 44 - Programación con Java: Clases Abstractas
+*****************************************************************************************
+Sección: 44 - 2 / 2
+Programación con Java: Clases Abstractas
+126. Lección: Clases Abstractas en Java - 3:58
+CPJ-A-Leccion-ClasesAbstractas.pdf
+127. Ejercicio: Clases Abstractas en Java - 12:40
+CPJ-B-Ejercicio-ClasesAbstractas.pdf
 ************************************************************************************
 Sección: 45 - 2 / 3
 Programación con Java: Manejo de Interfaces en Java
