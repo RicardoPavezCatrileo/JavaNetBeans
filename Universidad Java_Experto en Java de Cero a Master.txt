@@ -1,3 +1,10 @@
+ORIENTACION A OBJETOS
+ABSTRACCION (CLASES)
+ENCAPSULACION(PROTECCION)(Sección: 18 - Fundamentos Java: Encapsulamiento en Java)
+HERENCIA(RE-USO)
+POLIMORFISMO(FLEXIBILIDAD)
+OVERLOAD(SOBRECARGA)polismorfismo con respuesta de acuerdo a los parametros pudeindo agregar o quitar parametros
+OVERRIDE(SOBRE ESCRITURA)polismorfismo sobre escribiendo los metodos heredados tal cual.
 Sección: 1 - Fundamentos Java: Temario General y Recursos del Curso
 Sección: 2 - Fundamentos Java: Introducción a Java
 Sección: 3 - Fundamentos Java: Instalación de JDK de Java y Herramientas
@@ -15,18 +22,19 @@ Sección: 14 - Fundamentos Java: Paso por Valor y por Referencia en Java
 Sección: 15 - Fundamentos Java: Uso de la palabra return en Java
 Sección: 16 - Fundamentos Java: Uso de la palabra this en Java
 Sección: 17 - Fundamentos Java: Uso de la palabra null en Jav
-************************************************************************************
 Sección: 18 - Fundamentos Java: Encapsulamiento en Java
-************************************************************************************
 Sección: 19 - Fundamentos Java: Contexto Estático en Java (palabra static)
-************************************************************************************
 Sección: 20 4 / 4 - Fundamentos Java: Herencia en Java
-La Herencia es uno de los 4 pilares de la programación orientada a objetos (POO) junto con la Abstracción, Encapsulación y Polimorfismo.
-Respecto a la herencia se han dado muchas definiciones como por ejemplo la siguiente: "La herencia es un mecanismo que permite la definición 
-de una clase a partir de la definición de otra ya existente. La herencia permite compartir automáticamente métodos y datos entre clases, 
-subclases y objetos.". Así de primeras esta definición es un poco difícil de digerir para aquellos que estéis empezando con la POO, así que 
-vamos a intentar digerir esta definición con un ejemplo en el que veremos que la herencia no es más que un "Copy-Paste Dinámico" o una forma 
-de "sacar factor común" al código que escribimos.
+La Herencia es uno de los 4 pilares de la programación orientada a objetos (POO) junto con la 
+Abstracción, Encapsulación y Polimorfismo.
+Respecto a la Herencia se han dado muchas definiciones como por ejemplo la siguiente: "La herencia
+es un mecanismo que permite la definición de una clase a partir de la definición de otra ya existente.
+La herencia permite compartir automáticamente métodos y datos entre clases, subclases y objetos.". 
+Así de primeras esta definición es un poco difícil de digerir para aquellos que estéis empezando 
+con la POO, así que vamos a intentar digerir esta definición con un ejemplo en el que veremos
+que la herencia no es más que un "Copy-Paste Dinámico" o una forma de "sacar factor común" al 
+código que escribimos.
+
 64. Lección: Herencia en Java (Inheritance) - 9:10
 CFJ-A-Leccion-Herencia.pdf
 65. Lección: Herencia en Java (continuación) - 8:45
@@ -43,6 +51,9 @@ Sección: 26 - Fundamentos Java: Manejo de Arreglos en Java (arrays)
 Sección: 27 - Fundamentos Java: Manejo de Matrices en Java
 Sección: 28 - Fundamentos Java: Diseño de Clases en Java
 Sección: 29 - Fundamentos Java: Laboratorio Final y Conclusión del Curso
+************************************************************************************
+**********TERMINO DE FUNDAMENTOS EN JAVA *******************************************
+************************************************************************************
 Sección: 30 - Programación con Java: Temario General y Recursos del Curso
 Sección: 31 - Programación con Java: Sintaxis Básica
 Sección: 32 - Programación con Java: Manejo de JavaDoc
@@ -60,12 +71,10 @@ CPJ-A-Leccion-SobreescrituraMetodos.pdf
 116. Ejercicio: Sobreescritura de Métodos en Java (overriding) 9:55
 CPJ-B-Ejercicio-SobreescrituraMetodos.pdf 
 ************************************************************************************
-Sección: 40 - 0 / 2
-Programación con Java: Polimorfismo en Java
-117. Lección: Polimorfismo en Java 11:36
-CPJ-A-Leccion-Polimorfismo.pdf
-118. Ejercicio: Polimorfismo en Java 9:16
-CPJ-B-Ejercicio-Polimorfismo.pdf
+Sección: 40 - 0 / 2 PROGRAMACION CON JAVA: POLIMORFISMO EN JAVA.
+117. Lección: Polimorfismo en Java 11:36 - (CPJ-A-Leccion-Polimorfismo.pdf)
+
+118. Ejercicio: Polimorfismo en Java 9:16 - (CPJ-B-Ejercicio-Polimorfismo.pdf)
 ************************************************************************************
 Sección: 41 - 2 / 2 - Programación con Java: Palabra instance of en Java
 119. Lección: Palabra instance of en Java 7:43
@@ -121,6 +130,8 @@ Sección: 52 - Programación con Java: Manejo de Archivos
 ************************************************************************************
 Sección: 53 - Programación con Java: Laboratorio Final y Conclusión del Curso
 ************************************************************************************
+**********TERMINO DE PROGRAMACION EN JAVA FUNDAMENTOS EN JAVA **********************
+************************************************************************************
 Sección: 54 - Java con JDBC: Temario General y Recursos del Curso
 Sección: 55 - Java con JDBC: Introducción a SQL
 Sección: 56 - Java con JDBC: Introducción a JDBC
@@ -132,7 +143,9 @@ Sección: 61 - Java con JDBC: Metadatos con JDBC
 Sección: 62 - Java con JDBC: Manejo de Pool de Conexiones
 Sección: 63 - Java con JDBC: Concepto de ORM (Object Relational Mapping)
 Sección: 64 - Java con JDBC: Laboratorio final y Conclusión del Curso
-
+************************************************************************************
+**********TERMINO DE JAVA CON JDBC *************************************************
+************************************************************************************
 Sección: 65 - HTML/CSS/JavaScript: Temario General y Recursos a descargar del Curso
 Sección: 66 - HTML/CSS/JavaScript: Introducción a HTML
 D:\JAVA\JavaNetBeans\FundamentosJava\HTML_CSS_JavaScript\Leccion01\HolaMundoHTML
@@ -151,6 +164,9 @@ Sección: 72 - HTML/CSS/JavaScript: Introducción a JavaScript
 Sección: 73 - HTML/CSS/JavaScript: Funciones con JavaScript
 Sección: 74 - HTML/CSS/JavaScript: Formulario Final
 Sección: 75 - HTML/CSS/JavaScript: Laboratorio Final y Conclusión
+************************************************************************************
+**********TERMINO DE HTML/CSS/JavaScript *******************************************
+************************************************************************************
 Sección: 76 - Servlets y JSPs: Temario General y Recursos del Curso
 Sección: 77 - Servlets y JSPs: Introducción al Curso
 Sección: 78 - Servlets y JSPs: Concepto de los Servlets
@@ -170,6 +186,9 @@ Sección: 91 - Servlets y JSPs: EL (Expression Language) con JSPs
 Sección: 92 - Servlets y JSPs: Manejo de JSTL (JSP Standard Tag Library) en JSPs
 Sección: 93 - Servlets y JSPs: Patrón de diseño MVC
 Sección: 94 - Servlets y JSPs: Laboratorio Final SGA
+************************************************************************************
+**********TERMINO DE Servlets y JSPs ***********************************************
+************************************************************************************
 Sección: 95 - JSF: Temario General y Recursos del Curso
 Sección: 96 - JSF: Introducción a JavaServer Faces
 Negacion estativa o dinamica en JSF.
@@ -185,6 +204,9 @@ Sección: 104 - JSF: Componentes en JSF
 Sección: 105 - JSF: Facelets en JSF
 Sección: 106 - JSF: Integración de Servicios JSF y Java EE
 Sección: 107 - JSF: Conclusión del Curso
+************************************************************************************
+**********TERMINO DE JSF ***********************************************************
+************************************************************************************
 Sección: 108 - Java EE: Java Empresarial (EJB's, JPA, Web Services y Seguridad)
 Sección: 109 - Java EE: Introducción a Java Empresarial
 Sección: 110 - Java EE: Enterprise Java Beans (EJB's) en Java EE
@@ -199,6 +221,9 @@ Sección: 118 - Java EE: Integración de JavaServer Faces (JSF) en Java EE
 Sección: 119 - Java EE: Web Services con JAX-WS en Java EE
 Sección: 120 - Java EE: REST Web Services en Java EE
 Sección: 121 - Java EE: Seguridad en Java Empresarial
+************************************************************************************
+**********TERMINO DE JAVA EE *******************************************************
+************************************************************************************
 Sección: 122 - Curso de Bono de Regalo
 Sección: 123 - HTML5 y CSS3: Temario General y Recursos del Curso
 Sección: 124 - Lección 1 - Introducción a HTML5
