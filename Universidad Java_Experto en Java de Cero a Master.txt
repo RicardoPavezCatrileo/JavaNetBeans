@@ -138,10 +138,28 @@ CPJ-B-Ejercicio-Excepciones-2.pdf
 Sección: 48 - Programación con Java: API de Collections en Java
 ************************************************************************************
 Sección: 49 - Programación con Java: Manejo de Generics en Java
+//Los genericos no pueden ser aplicados a tipos primitivos
+//Por lo que esto marcaria un error de compilacion
+//ClaseGenerica<int> intPrimitivo = new ClaseGenerica<int>(88);
 ************************************************************************************
 Sección: 50 - Programación con Java: Propiedades del Sistema en Java
 ************************************************************************************
 Sección: 51 - Programación con Java: Entrada y Salida de datos en Java
+Sección: 51
+0 / 4
+Programación con Java: Entrada y Salida de datos en Java
+147. Lección: Entrada y Salida de Datos en Java
+8:10
+ CPJ-A-Leccion-EntradaSalidaDatos.pdf
+148. Ejercicio: Entrada y Salida de Datos en Java
+5:27
+ CPJ-B-Ejercicio-01-EntradaDatos.pdf
+149. Ejercicio: Manejo de la clase Scanner
+4:32
+ CPJ-B-Ejercicio-02-EntradaDatosScanner.pdf
+150. Ejercicio: Calculadora de Entrada de Datos
+6:22
+ CPJ-B-Ejercicio-03-CalculadoraEntradaDatos.pdf
 ************************************************************************************
 Sección: 52 - Programación con Java: Manejo de Archivos
 ************************************************************************************
