@@ -5,6 +5,8 @@ HERENCIA(RE-USO)
 POLIMORFISMO(FLEXIBILIDAD)
 OVERLOAD(SOBRECARGA)polismorfismo con respuesta de acuerdo a los parametros pudeindo agregar o quitar parametros
 OVERRIDE(SOBRE ESCRITURA)polismorfismo sobre escribiendo los metodos heredados tal cual.
+Variable Tipo Object (heap)
+Variable Locales (stack)
 Sección: 1 - Fundamentos Java: Temario General y Recursos del Curso
 Sección: 2 - Fundamentos Java: Introducción a Java
 Sección: 3 - Fundamentos Java: Instalación de JDK de Java y Herramientas
@@ -64,8 +66,7 @@ Sección: 36 - Programación con Java: Manejo de forEach en Java
 Sección: 37 - Programación con Java: Autoboxing y Unboxing en Java
 Sección: 38 - Programación con Java: Modificadores de Acceso en Java
 ************************************************************************************
-Sección: 39 - 2 / 2
-Programación con Java: Sobreescritura de Métodos en Java (overriding)
+Sección: 39 - 2 / 2 PROGRAMACION CON JAVA:SOBREESCRITURA DE METODOS EN JAVA(OVERRIDING)
 115. Lección: Sobreescritura de Métodos en Java (overriding) 5:48
 CPJ-A-Leccion-SobreescrituraMetodos.pdf
 116. Ejercicio: Sobreescritura de Métodos en Java (overriding) 9:55
@@ -116,7 +117,23 @@ CPJ-B-Ejercicio-Interfaces.pdf
 ************************************************************************************
 Sección: 46 - Programación con Java: Manejo de JavaBeans
 ************************************************************************************
-Sección: 47 - Programación con Java: Manejo de Excepciones en Java
+Sección: 47 - 2/7 -  Programación con Java: Manejo de Excepciones en Java
+Apuntes
+Throwable Error Exception
+Stacktrace en JAVA
+
+Programación con Java: Manejo de Excepciones en Java
+133. Lección: Manejo de Excepciones en Java (parte 1) 6:02
+ CPJ-A-Leccion-Excepciones-1.pdf
+134. Lección: Manejo de Excepciones en Java (parte 1) - continuación 3:52
+135. Ejercicio: Manejo de Excepciones en Java (parte 1) 13:33
+CPJ-B-Ejercicio-Excepciones-1.pdf
+136. Ejercicio: Manejo de Excepciones (parte 1) - continuación 9:45
+137. Lección: Manejo de Excepciones en Java (parte 2) 9:21
+CPJ-A-Leccion-Excepciones-2.pdf
+138. Ejercicio: Manejo de Excepciones en Java (parte 2) 11:41
+CPJ-B-Ejercicio-Excepciones-2.pdf
+139. Ejercicio: Manejo de Excepciones (parte 2) - continuación 9:52
 ************************************************************************************
 Sección: 48 - Programación con Java: API de Collections en Java
 ************************************************************************************
