@@ -10,7 +10,7 @@ public class ManejoExcepciones1 {
             Division division = new Division(10, 0);
             division.visualizarOperacion();
         } catch (OperationException oe) {
-            System.out.println("OcurriÃ³ un error!!!");
+            System.out.println("Ocurrio un error!!!");
             oe.printStackTrace();
         }
 
