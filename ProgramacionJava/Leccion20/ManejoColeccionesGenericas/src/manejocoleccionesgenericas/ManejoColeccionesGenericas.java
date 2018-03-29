@@ -11,6 +11,12 @@ public class ManejoColeccionesGenericas {
         miLista.add("3");
         miLista.add("4");
         miLista.add("4");
+         miLista.add("5");
+          miLista.add("6");
+           miLista.add("7");
+            miLista.add("8");
+             miLista.add("9");
+              miLista.add("10");
         imprimir(miLista);
 
         Set<String> miSet = new HashSet<>();
@@ -21,10 +27,16 @@ public class ManejoColeccionesGenericas {
         imprimir(miSet);
 
         Map<String, String> miMapa = new HashMap<>();
-        miMapa.put("1", "Juan");
-        miMapa.put("2", "Carlos");
-        miMapa.put("3", "Rosario");
-        miMapa.put("4", "Esperanza");
+        miMapa.put("1", "1-Juan");
+        miMapa.put("2", "2-Carlos");
+        miMapa.put("3", "3-Rosario");
+        miMapa.put("4", "4-Esperanza");
+          miMapa.put("5", "5-Esperanza");
+            miMapa.put("6", "6-Esperanza");
+              miMapa.put("7", "7-Esperanza");
+              miMapa.put("8", "8-Esperanza");
+              miMapa.put("9", "9-Esperanza");
+              miMapa.put("10", "10-Esperanza");
         imprimir(miMapa.keySet());
         imprimir(miMapa.values());
     }
