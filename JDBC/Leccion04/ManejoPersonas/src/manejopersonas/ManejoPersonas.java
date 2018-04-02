@@ -12,10 +12,10 @@ public class ManejoPersonas {
         //personasJDBC.insert("Alberto", "Juarez");
         
         //Prueba del metodo update
-        //personasJDBC.update(2, "Nombre3", "Apellido3");
+        //personasJDBC.update(7, "Nombre3", "Apellido3");
 		
         //Prueba del metodo delete
-        //personasJDBC.delete(1);
+        //personasJDBC.delete(8);
       
         //Prueba del metodo select
         //Uso de un objeto persona para encapsular la informacion

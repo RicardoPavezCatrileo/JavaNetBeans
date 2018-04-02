@@ -134,7 +134,8 @@ public class PersonasJDBC {
                 int id_persona = rs.getInt(1);
                 String nombre = rs.getString(2);
                 String apellido = rs.getString(3);
-                /*System.out.print(" " + id_persona);
+                /*
+                 System.out.print(" " + id_persona);
                  System.out.print(" " + nombre);
                  System.out.print(" " + apellido);
                  System.out.println();
