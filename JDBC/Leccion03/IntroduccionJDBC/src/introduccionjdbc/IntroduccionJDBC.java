@@ -1,14 +1,10 @@
 package introduccionjdbc;
 import java.sql.*;
-/**
- *
- * @author qa-ntb
- */
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
 public class IntroduccionJDBC {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         //Cadena de conexion de MySql, el parametro useSSL es opcional
         String url = "jdbc:mysql://localhost:3306/sga?useSSL=false";
@@ -24,6 +20,10 @@ public class IntroduccionJDBC {
             String sql = "select id_persona, nombre, apellido from persona";
             ResultSet result = instruccion.executeQuery(sql);
             while (result.next()) {
+                String TraeRegistro = "//Mensaje";
+                JFrame frame = new JFrame("JOptionPane showMessageDialog example");
+                JOptionPane.showMessageDialog(frame,"Prueba: '" + TraeRegistro + "'.");
+                //JOptionPane.showMessageDialog("Id:" + result.getInt(1));
                 System.out.print("Id:" + result.getInt(1));
                 System.out.print(" Nombre:" + result.getString(2));
                 System.out.println(" Apellido:" + result.getString(3));
