@@ -57,7 +57,11 @@ Sección: 29 - Fundamentos Java: Laboratorio Final y Conclusión del Curso
 **********TERMINO DE FUNDAMENTOS EN JAVA *******************************************
 ************************************************************************************
 Sección: 30 - Programación con Java: Temario General y Recursos del Curso
-Sección: 31 - Programación con Java: Sintaxis Básica
+************************************************************************************
+Sección: 31 1 / 1 Programación con Java: Sintaxis Básica (REPASADO/02-04-2018)
+98. Programación Java: Sintaxis Básica de Java 8:30
+CPJ-A-Leccion-SintaxisBasicaEnJava.pdf
+*************************************************************************************
 Sección: 32 - Programación con Java: Manejo de JavaDoc
 Sección: 33 - Programación con Java: Argumentos Variables en Java (varargs)
 Sección: 34 - Programación con Java: Manejo de Enumeraciones en Java
@@ -144,22 +148,16 @@ Sección: 49 - Programación con Java: Manejo de Generics en Java
 ************************************************************************************
 Sección: 50 - Programación con Java: Propiedades del Sistema en Java
 ************************************************************************************
-Sección: 51 - Programación con Java: Entrada y Salida de datos en Java
-Sección: 51
-0 / 4
+Sección: 51 - Programación con Java: Entrada y Salida de datos en Java 0 / 4
 Programación con Java: Entrada y Salida de datos en Java
-147. Lección: Entrada y Salida de Datos en Java
-8:10
- CPJ-A-Leccion-EntradaSalidaDatos.pdf
-148. Ejercicio: Entrada y Salida de Datos en Java
-5:27
- CPJ-B-Ejercicio-01-EntradaDatos.pdf
-149. Ejercicio: Manejo de la clase Scanner
-4:32
- CPJ-B-Ejercicio-02-EntradaDatosScanner.pdf
-150. Ejercicio: Calculadora de Entrada de Datos
-6:22
- CPJ-B-Ejercicio-03-CalculadoraEntradaDatos.pdf
+147. Lección: Entrada y Salida de Datos en Java - 8:10
+CPJ-A-Leccion-EntradaSalidaDatos.pdf
+148. Ejercicio: Entrada y Salida de Datos en Java - 5:27
+CPJ-B-Ejercicio-01-EntradaDatos.pdf
+149. Ejercicio: Manejo de la clase Scanner - 4:32
+CPJ-B-Ejercicio-02-EntradaDatosScanner.pdf
+150. Ejercicio: Calculadora de Entrada de Datos - 6:22
+CPJ-B-Ejercicio-03-CalculadoraEntradaDatos.pdf
 ************************************************************************************
 Sección: 52 - Programación con Java: Manejo de Archivos
 ************************************************************************************
