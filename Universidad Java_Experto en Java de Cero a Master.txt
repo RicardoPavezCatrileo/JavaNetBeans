@@ -168,7 +168,25 @@ Sección: 53 - Programación con Java: Laboratorio Final y Conclusión del Curso
 Sección: 54 - Java con JDBC: Temario General y Recursos del Curso
 Sección: 55 - Java con JDBC: Introducción a SQL
 Sección: 56 - Java con JDBC: Introducción a JDBC
+************************************************************************************
 Sección: 57 - Java con JDBC: Manejo de JDBC
+Sección: 57
+0 / 5
+Java con JDBC: Manejo de JDBC
+164. Lección: Manejo de JDBC
+9:27
+ CJDBC-A-Leccion-ManejoJDBC.pdf
+165. Ejercicio: Manejo de JDBC - parte 1
+10:29
+ CJDBC-B-Ejercicio-ManejoJDBC.pdf
+166. Ejercicio: Manejo de JDBC - parte 2
+16:26
+167. Ejercicio: Manejo de JDBC - parte 3
+7:30
+168. Laboratorio: Manejo de JDBC
+2:41
+ CJDBC-C-Laboratorio-ManejoJDBC.pdf
+************************************************************************************
 Sección: 58 - Java con JDBC: Manejo de Transacciones
 Sección: 59 - Java con JDBC: Patrones de Diseño y Buenas Prácticas
 Sección: 60 - Java con JDBC: Store Procedures y Funciones de Oracle

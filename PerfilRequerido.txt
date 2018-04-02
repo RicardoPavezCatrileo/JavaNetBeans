@@ -1,6 +1,7 @@
 ************************************************************************************
 ******************** Perfil Requqerido se Java Senior ******************************
 ************************************************************************************
+Full-Stack Developer Java SENIOR
 1) - Ingeniero en Informática o Ingeniero en Ejecución en Computación o Informática (titulado) 
 mínimo 5 años de experiencia laboral aplicada en:
 
@@ -69,3 +70,38 @@ Educación mínima: Universitaria / I.P. / C.F.T.
 Años de experiencia: 1
 Disponibilidad de viajar: No
 Disponibilidad de cambio de residencia: No
+************************************************************************************
+*******************Ingeniero de Desarrollo SEMI SENIOR *****************************
+************************************************************************************
+
+Somos una empresa del rubro turismo perteneciente a importante Holding del País. Mostramos a nuestros clientes lo sorprendente que es el mundo.
+
+Estamos apostando fuertemente por la transformación digital, trabajando con metodologías ágiles y en búsqueda de nuevas oportunidades de desarrollo.
+
+Queremos integrar a nuestro equipo de trabajo a personas proactivas, que incentiven el trabajo en equipo y con ganas de asumir nuevos desafíos.
+
+Requerimientos del cargo
+Buscamos a un Ingeniero de Desarrollo con estudios en Ingeniería en informática o carrera afín y al menos 1 año de experiencia laboral en cargos similares.
+
+Las principales funciones y responsabilidades del cargo será ayudar en la estimación de desarrollos y cumplir con la implementación de lo comprometido en el sprint. También, debe velar por el seguimiento de buenas prácticas y patrones de ingeniería de software en lo desarrollado.
+
+Estos son los conocimientos específicos que solicitamos para el cargo:
+
+PHP
+Java
+GIT
+Metodologías ágiles.
+Beneficios
+Ofrecemos
+
+Grato ambiente laboral
+Homeoffice
+Horario Flexible.
+Aguinaldos y giftcard
+Seguro Complementario.
+Convenio con gimnasio
+Oportunidades internas de desarrollo
+Capacitaciones internas
+Integrarse a una empresa con sólida presencia en el mercado
+
+
