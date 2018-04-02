@@ -44,3 +44,28 @@ Te proporcionamos un temario para que repases:
 - Importancia de Inmutabilidad de Objetos y Thread Safe en Java
 - Collection y Generics en Java
 - Técnica de Recursividad en programación
+************************************************************************************
+********************Analista Desarrollador Java       ******************************
+************************************************************************************
+Descripción
+Importante Empresa de Retail, se encuentra en búsqueda de un Analista Programador Java
+con 1 año de experiencia
+Requisitos:
+- Lenguaje Java y SQL
+- Web/Rest
+- Spring con MVC
+- Mybatis
+- Buenas Prácticas
+Se ofrece:
+- Contrato 6 meses, con posibilidades de extensión según desempeño
+- Proyecto de Larga Duración
+- Lugar de trabajo: Santiago Centro
+- Horario: Lunes a viernes de 09:00 a 18:30
+- Cheque Restaurant de $3.500
+- Seguros complementarios pagados por la empresa
+Cantidad de vacantes: 5
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.
+Años de experiencia: 1
+Disponibilidad de viajar: No
+Disponibilidad de cambio de residencia: No
