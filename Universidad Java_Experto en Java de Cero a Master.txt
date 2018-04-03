@@ -7,6 +7,22 @@ OVERLOAD(SOBRECARGA)polismorfismo con respuesta de acuerdo a los parametros pude
 OVERRIDE(SOBRE ESCRITURA)polismorfismo sobre escribiendo los metodos heredados tal cual.
 Variable Tipo Object (heap)
 Variable Locales (stack)
+La Herencia es uno de los 4 pilares de la programación orientada a objetos (POO) junto con la 
+Abstracción, Encapsulación y Polimorfismo.
+Respecto a la Herencia se han dado muchas definiciones como por ejemplo la siguiente: "La herencia
+es un mecanismo que permite la definición de una clase a partir de la definición de otra ya existente.
+La herencia permite compartir automáticamente métodos y datos entre clases, subclases y objetos.". 
+Así de primeras esta definición es un poco difícil de digerir para aquellos que estéis empezando 
+con la POO, así que vamos a intentar digerir esta definición con un ejemplo en el que veremos
+que la herencia no es más que un "Copy-Paste Dinámico" o una forma de "sacar factor común" al 
+código que escribimos.
+
+64. Lección: Herencia en Java (Inheritance) - 9:10
+CFJ-A-Leccion-Herencia.pdf
+65. Lección: Herencia en Java (continuación) - 8:45
+66. Ejercicio: Herencia en Java - 12:02
+CFJ-B-Ejercicio-Herencia.pdf
+67. Ejercicio: Herencia en Java (continuación)
 Sección: 1 - Fundamentos Java: Temario General y Recursos del Curso
 Sección: 2 - Fundamentos Java: Introducción a Java
 Sección: 3 - Fundamentos Java: Instalación de JDK de Java y Herramientas
@@ -24,25 +40,11 @@ Sección: 14 - Fundamentos Java: Paso por Valor y por Referencia en Java
 Sección: 15 - Fundamentos Java: Uso de la palabra return en Java
 Sección: 16 - Fundamentos Java: Uso de la palabra this en Java
 Sección: 17 - Fundamentos Java: Uso de la palabra null en Jav
+************************************************************************************
 Sección: 18 - Fundamentos Java: Encapsulamiento en Java
+************************************************************************************
 Sección: 19 - Fundamentos Java: Contexto Estático en Java (palabra static)
 Sección: 20 4 / 4 - Fundamentos Java: Herencia en Java
-La Herencia es uno de los 4 pilares de la programación orientada a objetos (POO) junto con la 
-Abstracción, Encapsulación y Polimorfismo.
-Respecto a la Herencia se han dado muchas definiciones como por ejemplo la siguiente: "La herencia
-es un mecanismo que permite la definición de una clase a partir de la definición de otra ya existente.
-La herencia permite compartir automáticamente métodos y datos entre clases, subclases y objetos.". 
-Así de primeras esta definición es un poco difícil de digerir para aquellos que estéis empezando 
-con la POO, así que vamos a intentar digerir esta definición con un ejemplo en el que veremos
-que la herencia no es más que un "Copy-Paste Dinámico" o una forma de "sacar factor común" al 
-código que escribimos.
-
-64. Lección: Herencia en Java (Inheritance) - 9:10
-CFJ-A-Leccion-Herencia.pdf
-65. Lección: Herencia en Java (continuación) - 8:45
-66. Ejercicio: Herencia en Java - 12:02
-CFJ-B-Ejercicio-Herencia.pdf
-67. Ejercicio: Herencia en Java (continuación)
 ************************************************************************************
 Sección: 21 - Fundamentos Java: Sobrecarga de Constructores
 Sección: 22 - Fundamentos Java: Sobrecarga de Métodos en Java
