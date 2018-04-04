@@ -13,29 +13,16 @@ import java.util.*;
  */
 public class PersonasJDBC {
 
-    //Variable que almacena una conexion como referencia
-    //esta opcion se recibe en el constructor de esta clase
-    //y permite reutilizar la misma conexion para ejecutar
-    //varios queries de esta clase, opcionalmente se puede
-    //utilizar para el uso de una transaccion en SQL
+    //Variable que almacena una conexion como referencia esta opcion se recibe en el constructor de esta clase
+    //y permite reutilizar la misma conexion para ejecutar varios queries de esta clase, opcionalmente se puede utilizar para el uso de una transaccion en SQL
     private java.sql.Connection userConn;
 
-    //Cadena con el SQL de insercion
-    //Nos apoyamos de la llave primaria autoincrementable de MySql
-    //por lo que se omite el campo de persona_id
-    //Se utiliza un prepareStatement, por lo que podemos
-    //utilizar parametros (signos de ?)
-    private final String SQL_INSERT
-            = "INSERT INTO persona(nombre, apellido) VALUES(?,?)";
-
-    private final String SQL_UPDATE
-            = "UPDATE persona SET nombre=?, apellido=? WHERE id_persona=?";
-
-    private final String SQL_DELETE
-            = "DELETE FROM persona WHERE id_persona = ?";
-
-    private final String SQL_SELECT
-            = "SELECT id_persona, nombre, apellido FROM persona ORDER BY id_persona";
+    //Cadena con el SQL de insercion Nos apoyamos de la llave primaria autoincrementable de MySql
+    //por lo que se omite el campo de persona_id Se utiliza un prepareStatement, por lo que podemos utilizar parametros (signos de ?)
+    private final String SQL_INSERT = "INSERT INTO persona(nombre, apellido) VALUES(?,?)";
+    private final String SQL_UPDATE = "UPDATE persona SET nombre=?, apellido=? WHERE id_persona=?";
+    private final String SQL_DELETE = "DELETE FROM persona WHERE id_persona = ?";
+    private final String SQL_SELECT = "SELECT id_persona, nombre, apellido FROM persona ORDER BY id_persona";
 
     /*
      * Agregamos el constructor vacio
