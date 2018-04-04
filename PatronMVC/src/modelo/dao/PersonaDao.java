@@ -5,17 +5,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-
 import javax.swing.JOptionPane;
-
 import controlador.Coordinador;
-
 import modelo.conexion.Conexion;
 import modelo.vo.PersonaVo;
-
-
-
-
 /**
  * Clase que permite el acceso a la base de datos
  * @author chenao
@@ -23,7 +16,6 @@ import modelo.vo.PersonaVo;
  */
 public class PersonaDao
 {
-
 	public void registrarPersona(PersonaVo miPersona)
 	{
 		Conexion conex= new Conexion();
@@ -33,7 +25,7 @@ public class PersonaDao
 			estatuto.executeUpdate("INSERT INTO persona VALUES ('"+miPersona.getIdPersona()+"', '"
 					+miPersona.getNombrePersona()+"', '"+miPersona.getEdadPersona()+"', '"
 					+miPersona.getProfesionPersona()+"', '"+miPersona.getTelefonoPersona()+"')");
-			JOptionPane.showMessageDialog(null, "Se ha registrado Exitosamente","Información",JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(null, "Se ha registrado Exitosamente","Informaciï¿½n",JOptionPane.INFORMATION_MESSAGE);
 			estatuto.close();
 			conex.desconectar();
 			
@@ -91,7 +83,7 @@ public class PersonaDao
             estatuto.setInt(6, miPersona.getIdPersona());
             estatuto.executeUpdate();
 
-          JOptionPane.showMessageDialog(null, " Se ha Modificado Correctamente ","Confirmación",JOptionPane.INFORMATION_MESSAGE);
+          JOptionPane.showMessageDialog(null, " Se ha Modificado Correctamente ","Confirmaciï¿½n",JOptionPane.INFORMATION_MESSAGE);
          
 
         }catch(SQLException	 e){
@@ -108,7 +100,7 @@ public class PersonaDao
 		try {
 			Statement estatuto = conex.getConnection().createStatement();
 			estatuto.executeUpdate("DELETE FROM persona WHERE id='"+codigo+"'");
-            JOptionPane.showMessageDialog(null, " Se ha Eliminado Correctamente","Información",JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(null, " Se ha Eliminado Correctamente","Informaciï¿½n",JOptionPane.INFORMATION_MESSAGE);
 			estatuto.close();
 			conex.desconectar();
 			

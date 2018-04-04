@@ -1,31 +1,24 @@
 package modelo.conexion;
-
 import java.sql.*;
-
-
 /**
  * Clase que permite conectar con la base de datos
- * @author chenao
- *
+ * @author chenao - Modificaciones RicardoPavez
  */
 public class Conexion {
    static String bd = "codejavu";
    static String login = "root";
-   static String password = "admin";
+   static String password = "admin";//se agrega clave de base de datos local
    static String url = "jdbc:mysql://localhost/"+bd;
-
    Connection conn = null;
-
    /** Constructor de DbConnection */
    public Conexion() {
       try{
          //obtenemos el driver de para mysql
          Class.forName("com.mysql.jdbc.Driver");
-         //obtenemos la conexi�n
+         //obtenemos la conexion
          conn = DriverManager.getConnection(url,login,password);
-
          if (conn!=null){
-            System.out.println("Conecci�n a base de datos "+bd+" OK");
+            System.out.println("CONECCION A BASE DE DATOS"+bd+" OK");
          }
       }
       catch(SQLException e){
@@ -40,9 +33,7 @@ public class Conexion {
    public Connection getConnection(){
       return conn;
    }
-
    public void desconectar(){
       conn = null;
    }
-
 }
