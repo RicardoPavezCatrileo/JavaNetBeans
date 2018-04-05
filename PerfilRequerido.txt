@@ -103,5 +103,45 @@ Convenio con gimnasio
 Oportunidades internas de desarrollo
 Capacitaciones internas
 Integrarse a una empresa con sólida presencia en el mercado
+************************************************************************************
+Senior Software Development Engineer ***********************************************
+************************************************************************************
+Descripción del empleo
+Oracle’s Cloud Infrastructure Group is building new Infrastructure-as-a-Service (IaaS) technologies that operate at high scale in a broadly distributed multi-tenant cloud environment.  Our customers run their businesses on our cloud, and our mission is to provide them with best in class compute, storage, networking, database, and security.
 
+ 
 
+Our team is responsible for providing the systems that allow customers to connect to their resources in the Oracle cloud securely, reliably, and with high performance. Our day-to-day work enables a business that spans everything from highly reliable distributed services to internet-scale networking devices and protocols to the coordination of hands-on work that happens in internet exchanges across the world. We are a fundamental building block for nearly every customer using Oracle's Cloud Infrastructure, and this means our team and this role are highly visible throughout the organization.
+
+ 
+
+We are looking for an experienced Software Development Engineer to join our team. You will define, design, implement, and support software to help us run our business and delight our customers. Great candidates for our team will be generalists with cloud or networking experience. We are "full stack teams" in that we design our applications from the UI to the storage. We use modern tools and frameworks, and are looking for candidates with experience in web technologies like React.js or Angular.js, server technologies like Java and REST, and deployment/devops technologies like Docker and CI/CD.
+
+ 
+
+These are exciting times in our space - we are growing fast; we are still at an early stage where an individual can have a significant impact. If you are passionate about taking ownership of big technical challenges and producing software solutions that have broad, significant impacts - come join our team!
+
+ 
+
+Min Qualifications
+
+BS in Computer Science or related technical field or equivalent practical experience.
+5+ years of delivering and operating large scale, highly distributed systems.
+Excellent coding skills in Java, C#, or equivalent
+Knowledge of Linux/UNIX fundamentals
+Strong CS fundamentals - algorithms, data structures, operating systems, distributed systems
+ 
+
+Preferred Qualifications
+
+Experience with web app technologies like React.js or Angular.js
+Experience with build automation, continuous integration, or continuous deployment tools
+Experience with containerization technologies such as docker and lxc
+Experience creating RESTful APIs
+Strong knowledge of testing and automating REST and RESTful based web services
+Experience with networking, particularly protocols like BGP
+ 
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
+
+ 
