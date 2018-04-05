@@ -143,5 +143,53 @@ Experience with networking, particularly protocols like BGP
  
 
 Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
+************************************************************************************
+Ingeniero Java SEMI SENIOR
+Ingenieros Java de nivel Semi Senior con conocimiento de seguridad de código, 
+owasp, criptografia, certificados, Java y herramientas de análisis.
+************************************************************************************
+Requerimientos del cargo
+Estimados, en 23people buscando Ingenieros Java de nivel Semi Senior con conocimiento 
+de seguridad de código, owasp, criptografia, certificados, Java y herramientas de análisis.
 
+Objetivos a realizar en el puesto:
+
+Llevar a cabo un levantamiento de los controles de seguridad relativos a la información, 
+de acuerdo a las diferentes clasificaciones de la misma (publica, confidencial, pci, pii, etc.)
+Trabajar con las áreas de desarrollo e infraestructura para la implementación de controles.
+Encriptación de información en tránsito y las bases de datos.
+Tokenización de información
+Definición de controles operacionales.
+IMPORTANTE: Si bien no requerimos mucha experiencia, se les aplicarán pruebas prácticas 
+para saber su nivel base de programación.
+
+Daremos un temario a estudiar para la primera etapa, por lo que si ahora no sabe, tendrá 
+tiempo de estudiar y practicar.
+
+Temario:
+
+Conceptos POO: Clase, Objetos, Interfaz, Clase Abstracta.
+Importancia de Inmutabilidad de Objetos y Thread Safe en Java.
+Técnica de Recursividad en programación.
+En el caso de pasar a la segunda etapa, se le realizarán preguntas sobre los siguientes conceptos:
+
+Seguridad de código
+Owasp
+Criptografía
+Certificados
+Java
+Herramientas de análisis
+Beneficios
+También somos Informáticos :)
+
+Si bien el trabajo será en las dependencias de nuestro cliente, hemos avanzado mucho en el mejorar el ambiente laboral y en aplicar metodologías ágiles al desarrollo. Queremos que estén cómodos trabajando y con un sueldo incluso un poco mejor que el promedio. También la flexibilidad horaria nos preocupa (todos tenemos cosas que hacer de vez en cuando).
+
+Beneficios:
+
+Flexibilidad Horaria, Trabajo presencial pero posibilidad de trabajar remoto en ocasiones (previa coordinación).
+Ambiente Laboral: Cooperación y jerarquías mínimas. También somos informáticos, sabemos y creemos en los valores del trabajo en equipo y centrado en las personas.
+Tipo de Contrato: 6 meses
+Remuneración Aproximada: $1.300.000 líquido mensual
+Lugar: Metro Tobalaba
+Horarios: Lunes a viernes de 8:30am a 18:30pm
  
