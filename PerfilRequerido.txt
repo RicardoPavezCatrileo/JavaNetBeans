@@ -144,10 +144,10 @@ Experience with networking, particularly protocols like BGP
 
 Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender
 ************************************************************************************
-Ingeniero Java SEMI SENIOR
-Ingenieros Java de nivel Semi Senior con conocimiento de seguridad de código, 
-owasp, criptografia, certificados, Java y herramientas de análisis.
-************************************************************************************
+INGENIERO JAVA SEMI SENIOR
+INGENIEROS JAVA DE NIVEL SEMI SENIOR CON CONOCIMIENTO DE SEGURIDAD DE CODIGO,
+OWASP,CRIPTOGRAFIA,CERTIFICADOS,JAVA y HERRAMIENTAS DE ANALISIS.
+____________________________________________________________________________________
 Requerimientos del cargo
 Estimados, en 23people buscando Ingenieros Java de nivel Semi Senior con conocimiento 
 de seguridad de código, owasp, criptografia, certificados, Java y herramientas de análisis.
