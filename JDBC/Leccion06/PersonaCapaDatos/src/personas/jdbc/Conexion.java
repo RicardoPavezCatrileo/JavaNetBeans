@@ -1,7 +1,6 @@
 package personas.jdbc;
 
 import java.sql.*;
-
 /**
  * Clase Conexion JDBC
  */
@@ -15,8 +14,7 @@ public class Conexion {
     private static final String JDBC_PASS = "admin";
     private static Driver driver = null;
 
-    //Para que no haya problemas al obtener la conexion de
-    //manera concurrente, se usa la palabra synchronized
+    //Para que no haya problemas al obtener la conexion de manera concurrente, se usa la palabra SYNCHRONIZED
     public static synchronized Connection getConnection()
             throws SQLException {
         if (driver == null) {
@@ -32,7 +30,7 @@ public class Conexion {
         }
         return DriverManager.getConnection(JDBC_URL, JDBC_USER, JDBC_PASS);
     }
-
+    
     //Cierre del resultSet
     public static void close(ResultSet rs) {
         try {

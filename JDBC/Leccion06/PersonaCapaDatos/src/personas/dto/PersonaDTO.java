@@ -1,18 +1,18 @@
 package personas.dto;
 
+//Data Transfer Object
 public class PersonaDTO {
 
+    //Constructor Vacio
     public PersonaDTO() {
     }
-
+    //Constructor Con un Argumento      
     public PersonaDTO(int id_persona) {
         this.id_persona = id_persona;
     }
-    
+    //Tres Atributos
     private int id_persona;
-
     private String nombre;
-
     private String apellido;
 
     public int getId_persona() {
