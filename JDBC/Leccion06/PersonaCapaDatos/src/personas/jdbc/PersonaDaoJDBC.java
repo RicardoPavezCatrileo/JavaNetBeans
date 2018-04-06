@@ -7,7 +7,7 @@ import personas.dto.PersonaDTO;
 
 /**
  * Esta clase implementa la clase PersonaDao es una implementacion con la
- * tecnologia JDBC podrĂ­a haber otro tipo de implementaciones con tecnologias
+ * tecnologia JDBC podria haber otro tipo de implementaciones con tecnologias
  * como Hibernate, iBatis, SpringJDBC, etc.
  *
  * @author Ubaldo
@@ -16,22 +16,15 @@ import personas.dto.PersonaDTO;
 public class PersonaDaoJDBC implements PersonaDao {
 
     private Connection userConn;
-
     private final String SQL_INSERT = "INSERT INTO persona(nombre, apellido) VALUES(?,?)";
-
     private final String SQL_UPDATE = "UPDATE persona SET nombre=?, apellido=? WHERE id_persona=?";
-
     private final String SQL_DELETE = "DELETE FROM persona WHERE id_persona = ?";
-
     private final String SQL_SELECT = "SELECT id_persona, nombre, apellido FROM persona";
-
     /**
      * Constructor vacio
      */
     public PersonaDaoJDBC() {
-
     }
-
     /**
      * Constructor con que recibe una conexion
      *
@@ -40,7 +33,6 @@ public class PersonaDaoJDBC implements PersonaDao {
     public PersonaDaoJDBC(Connection conn) {
         this.userConn = conn;
     }
-
     /**
      * El metodo insert recibe como argumento un objeto DTO el cual viene de
      * otra capa, y se extraen sus valores para crear un nuevo registro
