@@ -22,3 +22,18 @@ HTTP REQUEST
 HTTP RESPONSE
 Servidor Web(Aplicacion WEB)
 **************************************************************
+Concepto de los Servlets Y JSPs
+Conceptos Basicos de los Servlets
+Capa de Cliente (HTML - CSS - JavaScripts)
+Llamada con HTTP
+Clientes con Navegadores Web
+Capa Web (Servlets)
+
+Funciones de un Serlets
+Capa Web
+JSP(Vista)
+Servlet(Controlador)
+JavaBean(Modelo)
+
+
+
