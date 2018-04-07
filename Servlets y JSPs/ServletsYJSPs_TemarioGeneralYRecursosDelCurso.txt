@@ -9,3 +9,16 @@ JavaBenas en JSP y mas temas
 Temas Avanzados de Servelts y JSPs
 Patron de diseño MVC usando Servlets y JSPs
 Creacion de Aplicacion Web del Mundo Real
+***********************************************************
+Servlets Y JSPs:INtroduccion al curso
+ARQUITECTURA DE UNA APLICACION WEB CON JAVA
+Capa Cliente (HTML - CSS - JAVASCRIPTS)
+Capa Web (JSPs - Servlets)
+Capa Negocio(Objetos de Negocio, JavaBeans o Pojos)
+Capa Datos(Objetos de Entidad)
+PROCESO DE UNA PETICION HTTP
+Cliente (Clientes con Navegadores Web)
+HTTP REQUEST
+HTTP RESPONSE
+Servidor Web(Aplicacion WEB)
+**************************************************************
