@@ -93,7 +93,7 @@ public class VentanaRegistro extends JFrame implements ActionListener{
 		add(labelTitulo);
 		limpiar();
 		setSize(480, 300);
-		setTitle("CoDejaVu : Patrones de Diseño/MVC");
+		setTitle("CoDejaVu : Patrones de Diseno/MVC");
 		setLocationRelativeTo(null);
 		setResizable(false);
 		setLayout(null);
