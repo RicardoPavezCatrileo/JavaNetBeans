@@ -192,4 +192,47 @@ Tipo de Contrato: 6 meses
 Remuneración Aproximada: $1.300.000 líquido mensual
 Lugar: Metro Tobalaba
 Horarios: Lunes a viernes de 8:30am a 18:30pm
+************************************************************************************
+Ingeniero/Analista Programador QA JUNIOR
+************************************************************************************
+En 23people creemos en el desarrollo ágil y la vanguardia tecnológica. Construimos software en incrementos de valor que permite que nuestros clientes terminen el producto y la funcionalidad que realmente necesitan.
+
+Amamos lo que hacemos
+
+Somos especialistas en NodeJs y JavaScript en general. Trabajamos con tecnologías de front-end, Git, MongoDB en un ambiente de continuous Delivery, con servicios en la nube como cloudflare, Amazon, Openshift. En mobile Nativas y Progressive Web App. En escritorio NW o electron. También trabajamos con las tecnologías y frameworks asociados a JAVA y .NET.
+
+Requerimientos del cargo
+El trabajo requiere que sepa programar en Java y su framework Spring. Debe saber automatizar pruebas.
+
+- Ingles hablado INTERMEDIO, dado que estará en contacto con equipos de otros países en USA.
+
+- Conocimientos en Java: Junit, Spring
+
+- Conocimiento de base de datos (Oracle PLSQL)
+
+- Conocimientos servidores de Aplicaciones (WAS y/o Tomcat y/o JBoss)
+
+- Conocimiento de servicios web (SOAP o REST)
+
+- Análisis y especificación de requerimientos
+
+- Gestión de Versiones (GIT)
+
+- Metodología de pruebas (Conocimiento del STQB u otra metodología de pruebas que incluya QA y QC)
+
+- Metodología de Desarrollo de SW (Scrum)
+
+- Utilización de las siguientes herramientas de pruebas: JMETER/SELENIUM/SONAR/SOAPUI
+
+Beneficios
+También somos Informáticos :)
+Si bien el trabajo será en las dependencias de nuestro cliente (modalidad Outsourcing), hemos avanzado mucho en mejorar el ambiente laboral y en aplicar metodologías ágiles al desarrollo. Queremos que estén cómodos trabajando y con un sueldo incluso un poco mejor que el promedio. También la flexibilidad horaria nos preocupa (todos tenemos cosas que hacer de vez en cuando).
+
+Flexibilidad Horaria
+Trabajo presencial con posibilidad de trabajar remoto en ocasiones (previa coordinación).
+Ambiente Laboral: Cooperación y jerarquías mínimas. También somos informáticos, sabemos y creemos en los valores del trabajo en equipo y centrado en las personas.
+Tipo de Contrato: 3 meses plazo fijo, Indefinido luego de esto
+Remuneración Aproximada: 3 meses a $950.000, luego $1.100.000
+Ubicación: Empresa Multinacional, Metro Tobalaba
+Horarios: Lunes a viernes de 8:30am a 18:30pm
  
