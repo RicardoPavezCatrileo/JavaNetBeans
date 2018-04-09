@@ -10,7 +10,8 @@ Temas Avanzados de Servelts y JSPs
 Patron de diseño MVC usando Servlets y JSPs
 Creacion de Aplicacion Web del Mundo Real
 ***********************************************************
-Servlets Y JSPs:INtroduccion al curso
+Sección: 77 
+Servlets y JSPs: Introducción al Curso
 ARQUITECTURA DE UNA APLICACION WEB CON JAVA
 Capa Cliente (HTML - CSS - JAVASCRIPTS)
 Capa Web (JSPs - Servlets)
@@ -22,7 +23,9 @@ HTTP REQUEST
 HTTP RESPONSE
 Servidor Web(Aplicacion WEB)
 **************************************************************
-Concepto de los Servlets Y JSPs
+Sección: 78
+Servlets y JSPs: Concepto de los Servlets
+
 Conceptos Basicos de los Servlets
 Capa de Cliente (HTML - CSS - JavaScripts)
 Llamada con HTTP
@@ -32,8 +35,12 @@ Capa Web (Servlets)
 Funciones de un Serlets
 Capa Web
 JSP(Vista)
-Servlet(Controlador)
+SERVLET(Controlador)
 JavaBean(Modelo)
-
+************************************************************************************
+HttpServletRequest
+Sección: 79 - Servlets y JSPs: Manejo de Parámetros con Servlets
+************************************************************************************
+Sección: 80 - Servlets y JSPs: Manejo de Formularios HTML con Servlets
 
 
