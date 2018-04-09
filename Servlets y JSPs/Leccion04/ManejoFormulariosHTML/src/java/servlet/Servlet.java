@@ -19,6 +19,7 @@ public class Servlet extends HttpServlet {
         String password = request.getParameter("password");
         //El elemento tecnologia puede tener varios valores, por ello lo procesamos como un arreglo
         String[] tecnologias = request.getParameterValues("tecnologia");
+        
         String genero = request.getParameter("genero");
         String ocupacion = request.getParameter("ocupacion");
         //El componente de musica, indica que se puedenseleccionar multiples elementos, por ello lo procesamos como un arreglo

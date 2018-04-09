@@ -1,7 +1,4 @@
 /**
- * @author ubaldo
- */
-/**
  * Funcion para validar los elementos requeridos (*)
  * @param {Object} forma
  */
@@ -16,8 +13,8 @@ function validarForma(forma) {
     }
     //Validamos el password
     var password = forma.password;
-    if (password.value == "" || password.value.length < 3) {
-        alert("Debe proporcionar un password al menos de 3 caracteres");
+    if (password.value == "" || password.value.length < 4) {
+        alert("Debe proporcionar un password al menos de 4 caracteres");
         password.focus();
         password.select();
         return false;
