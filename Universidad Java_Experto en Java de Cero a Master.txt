@@ -221,30 +221,20 @@ Sección: 75 - HTML/CSS/JavaScript: Laboratorio Final y Conclusión
 **********TERMINO DE HTML/CSS/JavaScript *******************************************
 ************************************************************************************
 Sección: 76 - Servlets y JSPs: Temario General y Recursos del Curso
-Sección: 76
-0 / 3
-Servlets y JSPs: Temario General y Recursos del Curso
-234. Nivel: Servlets y JSP's
-4:27
-235. Recursos: PDF's (eBooks) del Curso de Servlets y JSP's
-0:00
- Nivel-ServletsJSPs-eBooks.zip
-236. Recursos: Proyectos Resueltos del Curso de Servlets y JSP's
-0:00
- Nivel-ServletsJSPs-CodigoFuente.zip
+234. Nivel: Servlets y JSP's - 4:27
+235. Recursos: PDF's (eBooks) del Curso de Servlets y JSP's - 0:00
+Nivel-ServletsJSPs-eBooks.zip
+236. Recursos: Proyectos Resueltos del Curso de Servlets y JSP's - 0:00
+Nivel-ServletsJSPs-CodigoFuente.zip
+************************************************************************************
 Sección: 77 - Servlets y JSPs: Introducción al Curso
-Sección: 77
-0 / 3
-Servlets y JSPs: Introducción al Curso
-237. Lección: Introducción a WWW (World Wide Web)
-6:55
- CJSP-A-Leccion-IntroduccionWWW.pdf
-238. Ejercicio: Instalación de las herramientas del Curso
-4:10
- CJSP-B-Ejercicio-01-InstalacionHerramientasJava.pdf
-239. Ejercicio: HolaMundo con Servlets
-19:54
- CJSP-B-Ejercicio-HolaMundoServlets.pdf
+237. Lección: Introducción a WWW (World Wide Web) - 6:55
+CJSP-A-Leccion-IntroduccionWWW.pdf
+238. Ejercicio: Instalación de las herramientas del Curso - 4:10
+CJSP-B-Ejercicio-01-InstalacionHerramientasJava.pdf
+239. Ejercicio: HolaMundo con Servlets - 19:54
+CJSP-B-Ejercicio-HolaMundoServlets.pdf
+************************************************************************************
 Sección: 78 - Servlets y JSPs: Concepto de los Servlets
 Sección: 79 - Servlets y JSPs: Manejo de Parámetros con Servlets
 Sección: 80 - Servlets y JSPs: Manejo de Formularios HTML con Servlets
