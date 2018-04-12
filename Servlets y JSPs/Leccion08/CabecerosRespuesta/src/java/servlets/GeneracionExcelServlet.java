@@ -20,8 +20,7 @@ public class GeneracionExcelServlet extends HttpServlet {
             response.setHeader("Cache-Control", "no-store");
             response.setDateHeader("Expires", -1);
 
-            //Desplegamos el contenido en un excel
-            //simplemente modificando el contentType
+            //Desplegamos el contenido en un excel simplemente modificando el contentType
             out.println("\tValores");
             out.println("\t1");
             out.println("\t2");
