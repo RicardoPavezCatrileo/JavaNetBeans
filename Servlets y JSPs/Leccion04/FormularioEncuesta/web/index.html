@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio Formulario</title>
+        <link rel="stylesheet" type="text/css" href="recursos/estilos.css">
+        <script type="text/javascript" src="recursos/funciones.js"></script>
+    </head>
+    <body>
+        <form name="form1" action="/ManejoFormulariosHTML/Servlet"
+              method="post" onsubmit="return validarForma(this);">
+
+            <input type="hidden" name="oculto" value="valorOculto">
+
+            <table width="200" id="one-column-emphasis">
+                <caption>
+                    Formulario De Encuesta de Difusion
+                </caption>
+                <tr>
+                    <td class="oce-first">HOTELES (*)</td>
+                    <td><input class="default" type="text" name="usuario" value="Escribir usuario" onfocus="this.select();"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">Con Respecto al servicio recibido por el hotel, en un escala de 1 a 7, donde 1 es pesimo y 7 es excelente</td>
+                </tr>
+                <tr>
+                    <td class="oce-first">¿Como califica las instalaciones del hotel?(*)</td>
+                    <td>
+                      
+                       1<input type="radio" name="nota" value="1">
+                        &nbsp;&nbsp;&nbsp;<!--genera espacios entre los elementos de manera horizontal -->
+                        2 <input type="radio" name="nota" value="2">
+                        &nbsp;&nbsp;&nbsp;<!--genera espacios entre los elementos de manera horizontal -->
+                        3<input type="radio" name="nota" value="3">
+                        &nbsp;&nbsp;&nbsp;<!--genera espacios entre los elementos de manera horizontal -->
+                        4<input type="radio" name="nota" value="4">
+                        &nbsp;&nbsp;&nbsp;<!--genera espacios entre los elementos de manera horizontal -->
+                        5<input type="radio" name="nota" value="5">
+                        &nbsp;&nbsp;&nbsp;<!--genera espacios entre los elementos de manera horizontal -->
+                        6<input type="radio" name="nota" value="6">
+                   
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">
+                        Tecnolog&iacute;as de Inter&eacute;s: (*)
+                    </td>
+                    <td>
+                        JAVA <input type="checkbox" name="tecnologia" value="java">
+                        &nbsp;&nbsp;&nbsp;
+                        .NET <input type="checkbox" name="tecnologia" value="net">
+                        &nbsp;&nbsp;&nbsp;
+                        PHP <input type="checkbox" name="tecnologia" value="php">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">
+                        G&eacute;nero: (*)
+                    </td>
+                    <td>
+                        Hombre<input type="radio" name="genero" value="H">
+                        &nbsp;&nbsp;&nbsp;<!--genera espacios entre los elementos de manera horizontal -->
+                        Mujer <input type="radio" name="genero" value="M">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">
+                        Ocupaci&oacute;n: (*)
+                    </td>
+                    <td>
+                        <select name="ocupacion" class="default">
+                            <option value="">Seleccionar</option>
+                            <option value="1">Profesor</option>
+                            <option value="2">Ingeniero</option>
+                            <option value="3">Jubilado</option>
+                            <option value="4">Otro</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">
+                        M&uacute;sica Favorita: 
+                    </td>
+                    <td>
+                        <select name="musica" multiple class="default">
+                            <option value="rock">Rock</option>
+                            <option value="pop">Pop</option>
+                            <option value="salsa">Salsa</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="oce-first">
+                        Comentarios:
+                    </td>
+                    <td>
+                        <textarea name="comentarios" cols="30" rows="2"
+                                  class="default" onfocus="this.select();">
+                            Escribir un texto</textarea>
+                    </td>
+                </tr>
+                <tr style="text-align:center;">
+                    <td>
+                        <input type="reset" value="Limpiar" class="default">
+                    </td>
+                    <td>
+                        <input type="submit" value="Enviar" class="default">
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
