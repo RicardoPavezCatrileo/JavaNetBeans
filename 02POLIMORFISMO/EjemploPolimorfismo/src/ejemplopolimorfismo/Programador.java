@@ -3,15 +3,16 @@ import javax.swing.JOptionPane;
 
 public class Programador extends Informaticos{
     //Utilizando Polimorfismo Overload
-    public void sueldo(int horas,double pagoH){
-    JOptionPane.showMessageDialog(null, "El pago es : " + (horas*pagoH));
+    public void sueldo(int horasProgramador,double pagoHProgramador){
+    JOptionPane.showMessageDialog(null, "El pago es : " + 
+            (horasProgramador*pagoHProgramador));
     }
-    public void datos(String nom,String ape){
-    JOptionPane.showMessageDialog(null, "Nombre : " + nom + 
-            "\nApellidos: " + ape);
+    public void datos(String nombreProgramador ,String apellidoProgramador){
+    JOptionPane.showMessageDialog(null, "Nombre : " + nombreProgramador + 
+            "\nApellidos: " + apellidoProgramador);
     }
-    public void labores(String lab){
+    public void labores(String labProgramador){
     JOptionPane.showMessageDialog(null, "Soy Programador y" + 
-            "Me dedico a Programar");
+            "Me dedicoa " + labProgramador);
     }
 }

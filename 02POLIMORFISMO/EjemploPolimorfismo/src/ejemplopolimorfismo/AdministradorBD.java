@@ -6,15 +6,14 @@ import javax.swing.JOptionPane;
 
 public class AdministradorBD {
     //Utilizando Polimorfismo Overload
-    public void sueldo(int horas,double pagoH){
-    JOptionPane.showMessageDialog(null, "El pago es : " + (horas*pagoH));
+    public void sueldo(double pagoAdministradorBD){
+    JOptionPane.showMessageDialog(null, "El Pago es de : " + pagoAdministradorBD);
     }
-    public void datos(String nom,String ape){
-    JOptionPane.showMessageDialog(null, "Nombre : " + nom + 
-            "\nApellidos: " + ape);
+    public void datos(String nomAdministradorBD){
+    JOptionPane.showMessageDialog(null, "Nombre es : " + nomAdministradorBD);
     }
-    public void labores(String lab){
-    JOptionPane.showMessageDialog(null, "Soy Programador y" + 
-            "Me dedico a Programar");
+    public void labores(String labAdministradorBD){
+    JOptionPane.showMessageDialog(null, "Soy Administrador de BBDDs y " + 
+            " Me dedico a " + labAdministradorBD);
     }
 }
