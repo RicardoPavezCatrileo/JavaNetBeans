@@ -1,5 +1,7 @@
 package ejemplopolimorfismo;
 
+import javax.swing.JOptionPane;
+
 public class EjemploPolimorfismo {
 
     public static void main(String[] args) {
@@ -7,6 +9,9 @@ public class EjemploPolimorfismo {
      Analista an1 = new Analista();
      AdministradorBD adm1 = new AdministradorBD();
      
+    
+     
+     JOptionPane.showMessageDialog(null,"Aqui Comienza Polimorfismo Overload");
      
      p1.datos("Juan","Perez");
      p1.sueldo(24,100);
@@ -19,6 +24,8 @@ public class EjemploPolimorfismo {
      adm1.datos("Jose");
      adm1.sueldo(4500);
      adm1.labores("Admin BD");
+     
+     
      
     }
     
