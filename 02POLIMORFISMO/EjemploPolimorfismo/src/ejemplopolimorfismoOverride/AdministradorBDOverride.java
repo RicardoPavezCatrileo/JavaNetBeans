@@ -12,10 +12,10 @@ public class AdministradorBDOverride extends InformaticosOverride{
     }
      @Override
     public void datos (String datosAdministradorBD){
-    JOptionPane.showMessageDialog(null,"El Nombre de un Admin es $" + datosAdministradorBD);
+    JOptionPane.showMessageDialog(null,"El Nombre de un Admin es" + datosAdministradorBD);
     }
      @Override
     public void labores(String laborAdministradorBD){
-    JOptionPane.showMessageDialog(null,"Las labores de un Admin son $" + laborAdministradorBD);
+    JOptionPane.showMessageDialog(null,"Las labores de un Admin son" + laborAdministradorBD);
     } 
 }
